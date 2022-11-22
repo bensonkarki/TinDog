@@ -19,7 +19,7 @@ p {
 }
 
 .container-fluid {
-    padding: 7% 15%; 
+    padding: 7% 15%;
 }
 
 
@@ -74,7 +74,7 @@ p {
     color: #fff;
 }
 
-.white-sections {
+.white-section {
     background-color: #fff;
 }
 
@@ -135,12 +135,11 @@ p {
 
 #features {
     position: relative;
-    z-index: 2;
+    z-index: 1;
 }
 
 .titleimg-container {
     position: relative;
-    z-index: 1;
 }
 
 .iconsection {
