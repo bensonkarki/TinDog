@@ -1,6 +1,6 @@
 TinDog- Parody "Dog Tinder" Website
-- built off Udemy Course
-- learned about these topics from building this website: 
+- Built off Udemy Course
+- Learned about these topics from building this website: 
     - Bootstrap Carousels, Cards, and Buttons
     - CSS Z-index
     - Media Query Breakpoints
